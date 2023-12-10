@@ -1,0 +1,15 @@
+D:\GeekBrain\Lang_prog\hw2\bin\Debug\net6.0\hw2.exe
+D:\GeekBrain\Lang_prog\hw2\bin\Debug\net6.0\hw2.deps.json
+D:\GeekBrain\Lang_prog\hw2\bin\Debug\net6.0\hw2.runtimeconfig.json
+D:\GeekBrain\Lang_prog\hw2\bin\Debug\net6.0\hw2.dll
+D:\GeekBrain\Lang_prog\hw2\bin\Debug\net6.0\hw2.pdb
+D:\GeekBrain\Lang_prog\hw2\obj\Debug\net6.0\hw2.csproj.AssemblyReference.cache
+D:\GeekBrain\Lang_prog\hw2\obj\Debug\net6.0\hw2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrain\Lang_prog\hw2\obj\Debug\net6.0\hw2.AssemblyInfoInputs.cache
+D:\GeekBrain\Lang_prog\hw2\obj\Debug\net6.0\hw2.AssemblyInfo.cs
+D:\GeekBrain\Lang_prog\hw2\obj\Debug\net6.0\hw2.csproj.CoreCompileInputs.cache
+D:\GeekBrain\Lang_prog\hw2\obj\Debug\net6.0\hw2.dll
+D:\GeekBrain\Lang_prog\hw2\obj\Debug\net6.0\refint\hw2.dll
+D:\GeekBrain\Lang_prog\hw2\obj\Debug\net6.0\hw2.pdb
+D:\GeekBrain\Lang_prog\hw2\obj\Debug\net6.0\hw2.genruntimeconfig.cache
+D:\GeekBrain\Lang_prog\hw2\obj\Debug\net6.0\ref\hw2.dll
